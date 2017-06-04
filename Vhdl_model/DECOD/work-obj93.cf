@@ -1,0 +1,7 @@
+v 3
+file . "decod_interface.vhdl" "20161214102958.000" "20161214113004.598":
+  entity decod at 1( 0) + 0 on 79;
+  architecture behavior of decod at 85( 2352) + 0 on 80;
+file . "reg_interface.vhdl" "20161213092325.000" "20161213102327.988":
+  entity reg at 1( 0) + 0 on 29;
+  architecture behavior of reg at 69( 1603) + 0 on 30;

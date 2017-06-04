@@ -1,0 +1,145 @@
+$date
+  Sun Nov 13 19:39:43 2016
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! din[3:0] $end
+$var reg 1 " full $end
+$var reg 1 # push $end
+$var reg 4 $ dout[3:0] $end
+$var reg 1 % empty $end
+$var reg 1 & pop $end
+$var reg 1 ' ck $end
+$var reg 1 ( reset_n $end
+$var reg 1 ) vdd $end
+$var reg 1 * vss $end
+$scope module fifo_4b $end
+$var reg 4 + din[3:0] $end
+$var reg 4 , dout[3:0] $end
+$var reg 1 - push $end
+$var reg 1 . pop $end
+$var reg 1 / full $end
+$var reg 1 0 empty $end
+$var reg 1 1 reset_n $end
+$var reg 1 2 ck $end
+$var reg 1 3 vdd $end
+$var reg 1 4 vss $end
+$var reg 4 5 fifo_d[3:0] $end
+$var reg 1 6 fifo_v $end
+$upscope $end
+$enddefinitions $end
+#0
+bUUUU !
+0"
+0#
+bUUUU $
+U%
+0&
+0'
+0(
+1)
+0*
+bUUUU +
+bUUUU ,
+0-
+0.
+0/
+U0
+01
+02
+13
+04
+bUUUU 5
+U6
+#1000000
+1%
+1'
+10
+12
+06
+#2000000
+b0001 !
+1#
+0'
+1(
+b0001 +
+1-
+11
+02
+#3000000
+1"
+b0001 $
+0%
+1'
+b0001 ,
+1/
+00
+12
+b0001 5
+16
+#4000000
+0"
+0#
+1&
+0'
+0-
+1.
+0/
+02
+#5000000
+1%
+1'
+10
+12
+06
+#6000000
+b0010 !
+1#
+0&
+0'
+b0010 +
+1-
+0.
+02
+#7000000
+1"
+b0010 $
+0%
+1'
+b0010 ,
+1/
+00
+12
+b0010 5
+16
+#8000000
+b0011 !
+0"
+1&
+0'
+b0011 +
+1.
+0/
+02
+#9000000
+b0011 $
+1'
+b0011 ,
+12
+b0011 5
+#10000000
+0#
+0'
+0-
+02
+#11000000
+1%
+1'
+10
+12
+06
+#12000000
